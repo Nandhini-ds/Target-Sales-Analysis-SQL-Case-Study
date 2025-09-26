@@ -113,20 +113,20 @@ The data is available in 8 csv files:
 Please refer to the `schema.png` file in this repository to view the table relationships.
 
 ## Recommendations
-● To increase orders during the low-demand months (September to December),
+*  To increase orders during the low-demand months (September to December),
 Target can introduce special shopping events or offer holiday deals around
 Christmas and other local holidays.
-● Afternoon and Night time experience the highest traffic. Target ensures that
+*  Afternoon and Night time experience the highest traffic. Target ensures that
 their website runs smoothly during these peak hours. Additionally dispatch
 teams are well-staffed during this period, and supported with automated alerts to
 enable faster processing and timely deliveries.
-● Target can reduce avg freight value and delivery time by partnering with local
+* Target can reduce avg freight value and delivery time by partnering with local
 vendors to enable faster delivery and lower shipping expenses. This approach
 can help Boost order volume in the Northern regions like Paraiba (PB) by making
 products more affordable and improving delivery speed.
-● Since the mode of payment through credit card is very high Target should retain
+* Since the mode of payment through credit card is very high Target should retain
 this strategy to make the credit card payment process as smooth as possible.
-● To increase debit card adoption, Target can collaborate with key banking partners
+* To increase debit card adoption, Target can collaborate with key banking partners
 to introduce exclusive debit card deals.
-● Since most customers choose one month installment or shorter plans, the
+* Since most customers choose one month installment or shorter plans, the
 company should focus on promoting shorter installment options.
